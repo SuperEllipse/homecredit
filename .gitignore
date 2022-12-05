@@ -1,0 +1,10 @@
+R
+node_modules
+*.pyc
+__pycache__
+.*
+!.gitignore
+!.experiments
+01_RAW_PREDICTION_DATA/*
+04_RAW_TRAINING_DATA/*
+

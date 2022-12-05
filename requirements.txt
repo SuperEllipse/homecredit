@@ -1,0 +1,9 @@
+numpy
+pandas
+gc
+time
+contextlib
+feast==0.21
+feast[spark]
+pyspark==3.2.0
+dbutils==3.0.2
