@@ -1,28 +1,0 @@
-
-D
-$
-__dummy"
-__dummy_idJgame_grouse
-¿¹¡œØ™œã¿¹¡œØ™œã
-M
--
-driver	driver id"	driver_idJgame_grouse
-¿¹¡œ¨ˆ§ã¿¹¡œ¨ˆ§ã1"$3c919fc1-2491-467b-9c66-aee700ab1e4f*„—·œøŒ ²2˜
-÷
-driver_hourly_statsgame_grousedriver"
-	conv_rate"
-acc_rate"
-avg_daily_trips2€õ$:event_timestamp*createdŠOfeast.infra.offline_stores.contrib.spark_offline_store.spark_source.SparkSource¢driver_stats1Ú
-driver_stats1@
-„—·œÀÌƒ²„—·œÀÌƒ²:Š
-j
-driver_activity_v1game_grouseG
-driver_hourly_stats
-	conv_rate
-acc_rate
-avg_daily_trips
-¿¹¡œ¨ŸÉã¿¹¡œ¨ŸÉãR€
-~
-,feast.infra.online_stores.sqlite.SqliteTable"N
-+/home/cdsw/game_grouse/data/online_store.dbgame_grouse_driver_hourly_statsbevent_timestamp*createdŠOfeast.infra.offline_stores.contrib.spark_offline_store.spark_source.SparkSource¢driver_stats1ªgame_grouseÚ
-driver_stats1

@@ -1,4 +1,0 @@
-Field(name="refused_app_credit_perc_max" , dtype=String),
-
-Field(name="instal_payment_perc_max" , dtype=String),
-Field(name="instal_payment_perc_min" , dtype=String),
