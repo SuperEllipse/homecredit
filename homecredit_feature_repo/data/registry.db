@@ -3,13 +3,13 @@ D
 $
 __dummy"
 __dummy_idJgame_grouse
-É¦œ¨€ÁÉ¦œ¨€Á
+•ñ»œøğä¬•ñ»œøğä¬
 f
 F
 homecredit_applicanthomecreditapplicant"
 sk_id_currJgame_grouse
-É¦œˆ×ŒÁÉ¦œˆ×ŒÁ1"$3830603b-3065-4214-be33-62b14a9b8dbd*¤Ó·œğ¿ª{2£Ê
-ƒÊ
+•ñ»œøŞê¬•ñ»œøŞê¬1"$683b911d-2b68-407a-85be-9f033b068778*˜™¼œØøßĞ2ÅË
+£Ë
 homecredit_appl_details_viewgame_grousehomecredit_applicant"	
 index"
 
@@ -120,7 +120,8 @@ flag_email"
 new_scores_std"
 new_car_to_birth_ratio"
 new_car_to_employ_ratio"
-new_phone_to_birth_ratio"
+new_phone_to_birth_ratio"%
+!new_phone_to_birth_ratio_employer"
 new_credit_to_income_ratio"!
 name_contract_type_cash_loans"&
 "name_contract_type_revolving_loans"
@@ -355,7 +356,8 @@ Aburo_credit_type_loan_for_purchase_of_shares_margin_lending__mean"<
 prev_amt_application_max"
 prev_amt_application_mean"
 prev_amt_credit_max"
-prev_amt_credit_mean"
+prev_amt_credit_mean"
+prev_app_credit_perc_max"
 prev_app_credit_perc_mean"
 prev_amt_down_payment_max"
 prev_amt_down_payment_mean"
@@ -553,7 +555,8 @@ $approved_hour_appr_process_start_max")
 refused_amt_application_max" 
 refused_amt_application_mean"
 refused_amt_credit_max"
-refused_amt_credit_mean" 
+refused_amt_credit_mean"
+refused_app_credit_perc_max" 
 refused_app_credit_perc_mean" 
 refused_amt_down_payment_max"!
 refused_amt_down_payment_mean"
@@ -595,9 +598,11 @@ $pos_name_contract_status_signed_mean"%
 instal_dbd_mean"
 instal_dbd_sum"
 instal_dbd_min"
-instal_dbd_std"
+instal_dbd_std"
+instal_payment_perc_max"
 instal_payment_perc_mean"
 instal_payment_perc_var"
+instal_payment_perc_min"
 instal_payment_perc_std"
 instal_payment_diff_max"
 instal_payment_diff_mean"
@@ -731,11 +736,11 @@ $cc_name_contract_status_refused_mean"'
  cc_name_contract_status_nan_mean"#
 cc_name_contract_status_nan_sum"#
 cc_name_contract_status_nan_var"
-cc_count2€õ$:¨event_timestamp*createdŠOfeast.infra.offline_stores.contrib.spark_offline_store.spark_source.SparkSource¢homecredit_processed_dataÚ
-homecredit_processed_data@
-¤Ó·œÈ¼…r¤Ó·œÈ¼…r:€É
-àÈ
- homecredit_appl_details_Fservicegame_grouse­È
+cc_count2€†°–:¨event_timestamp*createdŠOfeast.infra.offline_stores.contrib.spark_offline_store.spark_source.SparkSource¢homecredit_processed_dataÚ
+homecredit_processed_data
+˜™¼œÈ£¦È˜™¼œÈ£¦È:¢Ê
+€Ê
+ homecredit_appl_details_Fservicegame_grouseÍÉ
 homecredit_appl_details_view	
 index
 
@@ -846,7 +851,8 @@ flag_email
 new_scores_std
 new_car_to_birth_ratio
 new_car_to_employ_ratio
-new_phone_to_birth_ratio
+new_phone_to_birth_ratio%
+!new_phone_to_birth_ratio_employer
 new_credit_to_income_ratio!
 name_contract_type_cash_loans&
 "name_contract_type_revolving_loans
@@ -1081,7 +1087,8 @@ Aburo_credit_type_loan_for_purchase_of_shares_margin_lending__mean<
 prev_amt_application_max
 prev_amt_application_mean
 prev_amt_credit_max
-prev_amt_credit_mean
+prev_amt_credit_mean
+prev_app_credit_perc_max
 prev_app_credit_perc_mean
 prev_amt_down_payment_max
 prev_amt_down_payment_mean
@@ -1279,7 +1286,8 @@ $approved_hour_appr_process_start_max)
 refused_amt_application_max 
 refused_amt_application_mean
 refused_amt_credit_max
-refused_amt_credit_mean 
+refused_amt_credit_mean
+refused_app_credit_perc_max 
 refused_app_credit_perc_mean 
 refused_amt_down_payment_max!
 refused_amt_down_payment_mean
@@ -1321,9 +1329,11 @@ $pos_name_contract_status_signed_mean%
 instal_dbd_mean
 instal_dbd_sum
 instal_dbd_min
-instal_dbd_std
+instal_dbd_std
+instal_payment_perc_max
 instal_payment_perc_mean
 instal_payment_perc_var
+instal_payment_perc_min
 instal_payment_perc_std
 instal_payment_diff_max
 instal_payment_diff_mean
@@ -1457,8 +1467,8 @@ $cc_name_contract_status_refused_mean'
  cc_name_contract_status_nan_mean#
 cc_name_contract_status_nan_sum#
 cc_name_contract_status_nan_var
-cc_count
-¤Ó·œ »Üw¤Ó·œ »ÜwR–
+cc_count
+˜™¼œ¨²ÛÍ˜™¼œ¨²ÛÍR–
 “
 ,feast.infra.online_stores.sqlite.SqliteTable"c
 7/home/cdsw/homecredit_feature_repo/data/online_store.db(game_grouse_homecredit_appl_details_viewb¶event_timestamp*createdŠOfeast.infra.offline_stores.contrib.spark_offline_store.spark_source.SparkSource¢homecredit_processed_dataªgame_grouseÚ
