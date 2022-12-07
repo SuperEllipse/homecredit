@@ -8,12 +8,11 @@ f
 F
 homecredit_applicanthomecreditapplicant"
 sk_id_currJgame_grouse
-•ñ»œøŞê¬•ñ»œøŞê¬1"$683b911d-2b68-407a-85be-9f033b068778*˜™¼œØøßĞ2ÅË
-£Ë
-homecredit_appl_details_viewgame_grousehomecredit_applicant"	
-index"
+•ñ»œøŞê¬•ñ»œøŞê¬1"$a7045e23-ec10-431e-96d1-901971388112*ãáÀœ°®‰û2ºË
+˜Ë
+homecredit_appl_details_viewgame_grousehomecredit_applicant"
 
-target"
+target"
 code_gender"
 flag_own_car"
 flag_own_realty"
@@ -738,13 +737,12 @@ $cc_name_contract_status_refused_mean"'
 cc_name_contract_status_nan_var"
 cc_count2€†°–:¨event_timestamp*createdŠOfeast.infra.offline_stores.contrib.spark_offline_store.spark_source.SparkSource¢homecredit_processed_dataÚ
 homecredit_processed_data
-˜™¼œÈ£¦È˜™¼œÈ£¦È:¢Ê
-€Ê
- homecredit_appl_details_Fservicegame_grouseÍÉ
-homecredit_appl_details_view	
-index
+ãáÀœ¸†èòãáÀœ¸†èò:—Ê
+õÉ
+ homecredit_appl_details_Fservicegame_grouseÂÉ
+homecredit_appl_details_view
 
-target
+target
 code_gender
 flag_own_car
 flag_own_realty
@@ -1468,7 +1466,7 @@ $cc_name_contract_status_refused_mean'
 cc_name_contract_status_nan_sum#
 cc_name_contract_status_nan_var
 cc_count
-˜™¼œ¨²ÛÍ˜™¼œ¨²ÛÍR–
+ãáÀœè™÷÷ãáÀœè™÷÷R–
 “
 ,feast.infra.online_stores.sqlite.SqliteTable"c
 7/home/cdsw/homecredit_feature_repo/data/online_store.db(game_grouse_homecredit_appl_details_viewb¶event_timestamp*createdŠOfeast.infra.offline_stores.contrib.spark_offline_store.spark_source.SparkSource¢homecredit_processed_dataªgame_grouseÚ

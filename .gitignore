@@ -6,3 +6,6 @@ __pycache__
 !.gitignore
 !.experiments
 *.csv
+/nn_model/*
+*.db
+

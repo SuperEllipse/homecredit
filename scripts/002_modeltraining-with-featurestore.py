@@ -42,7 +42,7 @@ store = FeatureStore(repo_path='/home/cdsw/homecredit_feature_repo')
 
 entity_info = f"""
             SELECT sk_id_curr, current_timestamp as event_timestamp FROM  homecredit_processed_data 
-            WHERE event_timestamp < '2024-01-01'    
+            WHERE event_timestamp < '2023-01-01'    
             """
 #training_df = store.get_historical_features(
 #    entity_df = entity_info,
